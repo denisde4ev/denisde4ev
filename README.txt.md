@@ -105,7 +105,7 @@ for you: only if you first do your code review and maybe adapt the script to you
 
 plans: to add README / comments, to move it to *bin* repo and integrate it with bin/ssh-connect-with-clipboard
 
-###  pacman-manyrepos-totallybroken *(Public archive)*
+### pacman-manyrepos-totallybroken *(Public archive)*
 for me: no longer but I still keep that chroot it for some reason
 for you: totally no, its broken!
 
