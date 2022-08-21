@@ -14,9 +14,10 @@ for you: I hope, but if isn't please open an issue.
 plans:
 	to make git CI or wis is CI/C?  to test if I have ran the script
 	to add table of content with clickable links
+	fix bug: when repo has lowdash markdown will make it bold example \_\_sudo.sh\_\_ => ___sudo.sh__
 
 
-### dotfiles / bin / bin-win / shrc  / arg-sh:
+### dotfiles / bin / bin-win / shrc  / arg-sh
 for me: works well.
 for you: many of old scripts may be broken. Do your code review before using my scripts.
 dotfiles for you: I genneraly do not recommend to use it at your root(/) unless you really really want to.
