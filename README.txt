@@ -11,7 +11,10 @@ Status of is it well workng and should you use it.
 ### 0
 for me: yes, I understand what I wrote
 for you: maybe, but if you are here it probably works? yey
-plans: to fix markdown syntax to be GH reading friendly
+plans:
+	to fix markdown syntax to be GH reading friendly {HOPEFULLY DONE IN THIS COMMIT}
+	to make git CI or wis is CI/C?  to test if I have ran the script
+
 
 ### dotfiles / bin / bin-win / shrc  / arg-sh:
 for me: works well.
