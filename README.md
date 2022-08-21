@@ -8,12 +8,13 @@ Publick dump of some stuf I do.<br>
 Status of is it well workng and should you use it.<br>
 
 
-### [0](https://github.com/denisde4ev/0)
-for me: yes, I understand what I wrote<br>
-for you: maybe, but if you are here it probably works? yey<br>
+### [0](https://github.com/denisde4ev/0) = [denisde4ev](https://github.com/denisde4ev/denisde4ev)
+for me: yes, I understand what I wrote (seems to be a bit too long but its ok)<br>
+for you: I hope, but if isn't please open an issue.<br>
+
 plans:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;to fix markdown syntax to be GH reading friendly {HOPEFULLY DONE IN THIS COMMIT}<br>
 &nbsp;&nbsp;&nbsp;&nbsp;to make git CI or wis is CI/C?  to test if I have ran the script<br>
+&nbsp;&nbsp;&nbsp;&nbsp;to add table of content with clickable links<br>
 
 
 ### [dotfiles](https://github.com/denisde4ev/dotfiles) / [bin](https://github.com/denisde4ev/bin) / [bin-win](https://github.com/denisde4ev/bin-win) / [shrc](https://github.com/denisde4ev/shrc)  / arg-sh:

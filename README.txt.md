@@ -8,12 +8,13 @@ Publick dump of some stuf I do.
 Status of is it well workng and should you use it.
 
 
-### 0
-for me: yes, I understand what I wrote
-for you: maybe, but if you are here it probably works? yey
+### 0 = denisde4ev
+for me: yes, I understand what I wrote (seems to be a bit too long but its ok)
+for you: I hope, but if isn't please open an issue.
+
 plans:
-	to fix markdown syntax to be GH reading friendly {HOPEFULLY DONE IN THIS COMMIT}
 	to make git CI or wis is CI/C?  to test if I have ran the script
+	to add table of content with clickable links
 
 
 ### dotfiles / bin / bin-win / shrc  / arg-sh:
