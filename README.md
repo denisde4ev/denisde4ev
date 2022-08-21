@@ -14,7 +14,7 @@ for you: I hope, but if isn't please open an issue.<br>
 plans:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;to make git CI or wis is CI/C?  to test if I have ran the script<br>
 &nbsp;&nbsp;&nbsp;&nbsp;to add table of content with clickable links<br>
-&nbsp;&nbsp;&nbsp;&nbsp;fix bug: when repo has lowdash markdown will make it bold example \_\_sudo.sh\_\_ => ___sudo.sh__<br>
+&nbsp;&nbsp;&nbsp;&nbsp;fix bug: when repo has lowdash markdown will make it bold example \_\_sudo.sh\_\_ => __sudo.sh__<br>
 
 
 ### [dotfiles](https://github.com/denisde4ev/dotfiles) / [bin](https://github.com/denisde4ev/bin) / [bin-win](https://github.com/denisde4ev/bin-win) / [shrc](https://github.com/denisde4ev/shrc)  / [arg-sh](https://github.com/denisde4ev/arg-sh)
