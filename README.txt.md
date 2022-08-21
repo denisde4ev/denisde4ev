@@ -1,4 +1,4 @@
-# Publick dump of some stuf I do.
+# dump of some stuf I do
 
 <br>
 
