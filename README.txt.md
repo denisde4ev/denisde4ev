@@ -7,7 +7,7 @@
 Status of is it well workng and should you use it.
 
 
-### 0 = denisde4ev
+### 0 => denisde4ev
 for me: yes, I understand what I wrote (seems to be a bit too long but its ok)
 for you: I hope, but if isn't please open an issue.
 

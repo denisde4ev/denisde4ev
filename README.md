@@ -7,7 +7,7 @@
 Status of is it well workng and should you use it.<br>
 
 
-### [0](https://github.com/denisde4ev/0) = [denisde4ev](https://github.com/denisde4ev/denisde4ev)
+### [0](https://github.com/denisde4ev/0) => [denisde4ev](https://github.com/denisde4ev/denisde4ev)
 for me: yes, I understand what I wrote (seems to be a bit too long but its ok)<br>
 for you: I hope, but if isn't please open an issue.<br>
 
