@@ -1,7 +1,6 @@
-# 0
-Publick dump of some stuf I do.
+# Publick dump of some stuf I do.
 
-----
+<br>
 
 ## My repos status: (for shell scripts and 0)
 
