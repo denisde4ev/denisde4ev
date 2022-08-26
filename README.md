@@ -67,7 +67,7 @@ status:<br>
 
 
 ### [HOME-disallowed](https://github.com/denisde4ev/HOME-disallowed)
-for me: yes, it works. {{{ `BTW my homedir folders+files: https://github.com/denisde4ev/dotfiles/blob/master/~/.gitls   ( not merged - not a death link, its future link, use: https://github.com/denisde4ev/dotfiles/blob/_master_tomerge_/~/.gitls )` }}}<br>
+for me: yes, it works. ( BTW my homedir folders+files: https://github.com/denisde4ev/dotfiles/blob/master/~/.gitls )<br>
 for you: maybe<br>
 plans: I plan to clean the code a bit more and then I may start to recommend it.<br>
 
